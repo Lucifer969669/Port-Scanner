@@ -1,0 +1,6 @@
+Scan results for scanme.nmap.org
+Started at: 2025-09-06 09:12:20.829870
+
+PORT	STATE	SERVICE
+22	OPEN	SSH
+80	OPEN	HTTP
